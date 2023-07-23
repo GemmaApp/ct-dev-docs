@@ -20,7 +20,7 @@ At Critique, we uphold the following principles in our software development proc
 
 ## Best Practices
 
-## Version Control - GitHub Flow
+### Version Control
 
 At Critique, we follow GitHub Flow as our version control workflow. GitHub Flow is a lightweight and flexible approach to collaboration and code deployment. For a detailed explanation, you can refer to [this blog post by Scott Chacon](https://scottchacon.com/2011/08/31/github-flow.html).
 
